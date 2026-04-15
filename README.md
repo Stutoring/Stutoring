@@ -30,4 +30,4 @@ This repository contains the official Stutoring website. It is a static site bui
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/stutoring-website.git
+   git clone https://stutoring.github.io/Stutoring/.git
